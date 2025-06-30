@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gen-lang-client-0249454528",
+  "private_key_id": "c7cacff6e5a14d336a988ed0eca018b7a680891e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDI8eWsFv4oHXdm\nUOVf3QwpsDxKIql7UdZLjf807xPv1GhelFkwKFfz4vP8QoLQ4IstYRItjL8e8Xk8\nEY2l1a+ZBDO/VDOdBXZAHErlkhbF2Hx98qrvPLDHIOEoaOhrwHPxVdC19hIn0KXJ\nzrDXdr/hiJREFx9bm3ceSW1nOYMblgRxWsLiHmhTqOlme4B3grcLvz91AwzHqhbe\nrtygVNXa7Bb9P6S43OsV34AxuYZOZvfHubdAA9FNG94cXNN5VpvymZo/NcKYm6l0\n1bhwdyzBCuYNDiD32IaG5rWx4mTTOB5oIy6HTY7xeMgjf6B1TT9h9+FG/4UVupZr\nOzBBU38JAgMBAAECggEAQUTJC/+f6BnCGZq3Fk8vTy8uNgpSMHshdwMVXPU27ZR5\nnhbjbU/9WXtjMpHL+dqlekToaaEoxv06Gre84Zup4LLLuB66cQtAIIzQCwdLnFG4\nBhTXTsPQy60zVTPWIoGtZzsvgpr9xK7x2r3nFOU+aBw7xG4aQmAZ7d19yqSUoFWj\nOx4zZIhO6tfxxlmVnHQpxP5dvra8R4KtguxcNAFX9v3leSbrmjv4qMY4Pak79OC/\nCe54Y8sat7yREWevrMbgOUIlvdo5jsPcRSpnTf2qvbMEUnHr5lnn17lIxsxKTYKg\nMbTT4Hd2Iw6QeCbE+pfRsQdpwCIi6ds8qG07d1HBXQKBgQDz4pQZlE14AiImn961\nH2ck3BmBNxUkZnt2YvjaYs5cVvFjah7MpMbT8HcQv1OATGwDLo4/GyI03rvMf9Ga\n4FycW7aXMqPyEM3GKT81Uf8CfXjfr6U4A0tZNQclUjJFyAEQhTsXTxQprzR89wKz\nHCr4869JPZbv54W69YQmXp8AewKBgQDS7UKShIbN6O/Zg4CeGfixTs4zv4du6bDt\n+/7A02yeboOsYey5zo5v49Gm1B33sf+GwXBsV+DMlez+QwY8PGSS6GIgxAEflx7Y\n54XEI7aPUKVNbwZvm8PVWmwehYJifRpvhb1wZtuAGEyY7RJHJ6YaHcqfeW7lWMDJ\neQkYGAOhSwKBgBXjjhtFnjZZKquAycJD0UQTpQ5d3T3pHMehVmhzWcYb34pmqeEA\nIQBAos8T/PCU61TVxtqPGuDX5M8T4cIexPEboiWr298L9wwEA7JLa7HThRe+cfu2\n//o/siZ9XBm7O6055/XNmSesm+9jVBCzRIAXjvHp3zQk+XGwO24eK/MlAoGACX29\noiQugLN7n3kIX5ThmPDn3HJA4N/JI1xUgU7CM3rbl/UsFsxRon1I4M3or02mJuUr\nbuSha/NPH73aWPmKuQWV7M2FE2vUaoQ4g7PrshU56vsU+g6zSDVyagkt7cqdVulY\nteca92+ger0oNmV1VvWCOZzYPZ+5xRcaLqhd+XMCgYEA62SVrCyeMwmKI1CsW2/N\nABMzGiwcWxrrGPeoQn7sZBkYo6EW+/9qBvjpxBPwqC4c9lZctmryGK250PqQKKkY\nayj32jnRWySK51SyvI/Ifw/SkqZOYXQupnFWB1fmc8pAcbJiXgafivQsUa+Ry/dl\nWyPPlOLY3sS4TL6IMgRUFlc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smart-energy-gemini@gen-lang-client-0249454528.iam.gserviceaccount.com",
+  "client_id": "118178781006025442591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smart-energy-gemini%40gen-lang-client-0249454528.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

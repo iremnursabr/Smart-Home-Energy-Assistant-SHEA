@@ -1,0 +1,9 @@
+ELEKTRIK FATURASI
+Fatura No: 123456789
+Fatura Tarihi: 15.04.2024
+Tedarikçi: ABC Enerji
+Fatura Tipi: Elektrik
+Dönem: Nisan 2024
+Tutar: 350,00 TL
+Son Ödeme Tarihi: 30.04.2024
+Tüketim Detayı: 250 kWh

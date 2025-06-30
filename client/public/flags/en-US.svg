@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1235 650">
+  <rect width="1235" height="650" fill="#ffffff"/>
+  <g fill="#bf0a30">
+    <rect width="1235" height="50" y="0"/>
+    <rect width="1235" height="50" y="100"/>
+    <rect width="1235" height="50" y="200"/>
+    <rect width="1235" height="50" y="300"/>
+    <rect width="1235" height="50" y="400"/>
+    <rect width="1235" height="50" y="500"/>
+    <rect width="1235" height="50" y="600"/>
+  </g>
+  <rect width="494" height="350" fill="#002868"/>
+  <g fill="#ffffff">
+    <!-- Just showing a few stars in a simplified version -->
+    <polygon points="50,25 60,50 40,35 60,35 40,50"/>
+    <polygon points="120,25 130,50 110,35 130,35 110,50"/>
+    <polygon points="190,25 200,50 180,35 200,35 180,50"/>
+    <polygon points="260,25 270,50 250,35 270,35 250,50"/>
+    <polygon points="330,25 340,50 320,35 340,35 320,50"/>
+    <polygon points="400,25 410,50 390,35 410,35 390,50"/>
+    
+    <polygon points="50,75 60,100 40,85 60,85 40,100"/>
+    <polygon points="120,75 130,100 110,85 130,85 110,100"/>
+    <polygon points="190,75 200,100 180,85 200,85 180,100"/>
+    <polygon points="260,75 270,100 250,85 270,85 250,100"/>
+    <polygon points="330,75 340,100 320,85 340,85 320,100"/>
+    <polygon points="400,75 410,100 390,85 410,85 390,100"/>
+    
+    <polygon points="50,125 60,150 40,135 60,135 40,150"/>
+    <polygon points="120,125 130,150 110,135 130,135 110,150"/>
+    <polygon points="190,125 200,150 180,135 200,135 180,150"/>
+    <polygon points="260,125 270,150 250,135 270,135 250,150"/>
+    <polygon points="330,125 340,150 320,135 340,135 320,150"/>
+    <polygon points="400,125 410,150 390,135 410,135 390,150"/>
+  </g>
+</svg> 

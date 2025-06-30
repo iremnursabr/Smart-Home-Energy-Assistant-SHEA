@@ -1,0 +1,22 @@
+{
+  "table": "invoices",
+  "add_columns": [
+    { "name": "account_number", "type": "VARCHAR(50)", "description": "Sözleşme Hesap No" },
+    { "name": "installation_number", "type": "VARCHAR(50)", "description": "Tekil Kod / Tesisat No" },
+    { "name": "customer_number", "type": "VARCHAR(50)", "description": "Müşteri No" },
+    { "name": "average_consumption", "type": "DECIMAL(10,3)", "description": "Fatura Ort. Tüketim (Günlük Ortalama)" },
+    { "name": "full_name", "type": "VARCHAR(100)", "description": "Ad Soyad" },
+    { "name": "address", "type": "VARCHAR(255)", "description": "Adres" },
+    { "name": "consumer_group", "type": "VARCHAR(100)", "description": "Tüketici Grubu" }
+  ],
+  "sql": [
+    "ALTER TABLE invoices ADD COLUMN account_number VARCHAR(50);",
+    "ALTER TABLE invoices ADD COLUMN installation_number VARCHAR(50);",
+    "ALTER TABLE invoices ADD COLUMN customer_number VARCHAR(50);",
+    "ALTER TABLE invoices ADD COLUMN average_consumption DECIMAL(10,3);",
+    "ALTER TABLE invoices ADD COLUMN full_name VARCHAR(100);",
+    "ALTER TABLE invoices ADD COLUMN address VARCHAR(255);",
+    "ALTER TABLE invoices ADD COLUMN consumer_group VARCHAR(100);"
+  ],
+  "note": "Bu alanlar yeni fatura bilgilerini tutmak için eklenmiştir. Gereksizse bu dosya silinebilir."
+} 
